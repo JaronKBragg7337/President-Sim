@@ -2,6 +2,8 @@
 
 A presidential choice-based simulation grounded in **real 2025–2026 world events**. Every decision shapes five pillars of your presidency. How does your legacy end?
 
+TRY IT OUT AT HOSTED WEBSITE: https://www.heartbeatobservatory.com
+
 ---
 
 ## What's New in 2026 Edition
