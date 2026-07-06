@@ -113,6 +113,27 @@
       letter-spacing: 1px;
     }
 
+    /* Back button */
+    .back-btn {
+      font-family: 'Orbitron', monospace;
+      font-size: clamp(0.75em, 1.8vw, 0.9em);
+      color: #fff;
+      background: rgba(0,0,0,0.6);
+      padding: 8px 16px;
+      border-radius: 8px;
+      border: 1.5px solid rgba(0,119,255,0.45);
+      backdrop-filter: blur(10px);
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.25s;
+      z-index: 1;
+    }
+    .back-btn:hover {
+      border-color: var(--cyan);
+      box-shadow: 0 4px 20px rgba(0,119,255,0.35);
+      transform: translateX(-2px);
+    }
+
     /* Approval rating */
     #approvalBar {
       width: 90%;
@@ -384,6 +405,7 @@
   <div id="topBar">
     <div class="top-badge" id="yearDisplay">📅 Year: 2025</div>
     <div class="top-badge" id="highscoreDisplay">🏆 Best: 0%</div>
+    <a class="back-btn" href="https://www.heartbeatobservatory.com/games/">← Games</a>
   </div>
 
   <div class="progress-strip">
