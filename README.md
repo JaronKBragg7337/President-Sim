@@ -2,7 +2,9 @@
 
 A presidential choice-based simulation grounded in **real 2025–2026 world events**. Every decision shapes five pillars of your presidency. How does your legacy end?
 
-TRY IT OUT AT HOSTED WEBSITE: https://www.heartbeatobservatory.com
+PLAY THE LIVE GAME: https://jaronkbragg7337.github.io/President-Sim/
+
+This is an independent, fictionalized simulation inspired by public headlines. It is not affiliated with the White House.
 
 ---
 
@@ -11,7 +13,7 @@ TRY IT OUT AT HOSTED WEBSITE: https://www.heartbeatobservatory.com
 - **20 scenarios** ripped from today's headlines — US-China trade war, Ukraine/NATO drone strike on Romania, Iran nuclear brinkmanship, AI job displacement, rural approval collapse, tech antitrust, AI copyright law, housing crisis, UBI debate, crypto reserve status, and more
 - **5 stats** — Approval, Civil Unrest, Moral Standing, Economy, Global Standing (new)
 - **16 rounds** with a 20-scenario pool to minimize repetition
-- **13 distinct endings** — from Golden Age and World Peacemaker to Civil War, Authoritarian Regime, and Forced Resignation
+- **15 distinct endings** — from Golden Age and World Peacemaker to Civil War, Authoritarian Regime, and Forced Resignation
 - **Contextual blurbs** grounding every decision in real-world data (Pew Research, Stanford AI Index, Goldman Sachs, NATO briefings)
 - Full visual redesign with Orbitron/Rajdhani typography and scenario tags
 
@@ -19,7 +21,7 @@ TRY IT OUT AT HOSTED WEBSITE: https://www.heartbeatobservatory.com
 
 ## Play
 
-Just open `index.html` in any browser. No server, no dependencies.
+Open the live link above, or open `index.html` in any browser. No server, login, or installation is required.
 
 ---
 
