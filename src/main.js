@@ -32,7 +32,7 @@ try {
 } catch {
   storageAvailable = false;
 }
-const BUILD = "2026-09-04-office-1";
+const BUILD = "2026-09-04-office-2";
 document.body.dataset.build = BUILD;
 function notify(text) {
   $("#notice").textContent = text;
@@ -267,6 +267,8 @@ function actor(id) {
     id === h.lead ? h.intro : a.motive,
     "THEIR PRIORITY · " + a.role.toUpperCase(),
   );
+  if (innerWidth <= 850)
+    $("#conversation").scrollIntoView({ behavior: "smooth", block: "center" });
 }
 function cinema() {
   if (!started) {
